@@ -1,6 +1,6 @@
 body {
     /* Typography Declarations */
-    color: #28D66F;
+    color: #2DAB20;
     font-size: 1em;
     font-family: "Open Sans", "Helvetica Neue", sans-serif;
 }
@@ -123,7 +123,7 @@ h2 {
   margin: 50px 0;
   padding: 20px 0;
   text-align: center;
-  background-color: #73A8C2;
+  background-color: #5920AB;
   text-decoration: none;
 }
 .social > li {
@@ -136,7 +136,7 @@ h2 {
 a {
     font-weight: bold;
     text-decoration: none;
-    color: #F1C863;
+    color: #AB5920;
 }
   
 @media only screen and (max-width: 500px) {
