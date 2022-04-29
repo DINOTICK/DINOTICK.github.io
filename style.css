@@ -203,14 +203,14 @@ body {
   min-width: 200px;
   background: linear-gradient(
     270deg,
-    #43e97b,
-    #38f9d7,
-    #e0c3fc,
-    #8ec5fc,
-    #4facfe,
-    #00f2fe,
+    #223F0F,
+    #39661C,
+    #8BE053,
+    #223F0F,
+    #6EB73E,
+    #6EB73E,
     #a8edea,
-    #fed6e3
+    #B6CA45
   );
   background-size: 1600% 1600%;
   box-shadow: inset 0px -20px 100px 0px rgba(255, 255, 255, 0.48);
@@ -235,13 +235,13 @@ body {
   min-width: 200px;
   background: linear-gradient(
     270deg,
-    #00f2fe,
+    #B6CA45,
     #8ec5fc,
-    #38f9d7,
-    #4facfe,
-    #a8edea,
-    #43e97b,
-    #e0c3fc,
+    #6EB73E,
+    #223F0F,
+    #B6CA45,
+    #39661C,
+    #8BE053,
     #fed6e3
   );
   background-size: 1600% 1600%;
