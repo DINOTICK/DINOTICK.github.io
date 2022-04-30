@@ -300,17 +300,17 @@ body {
   opacity:0;
 } */
 
-.profilpicture-animation {
+/* .profilpicture-animation {
   animation:showprofil 0.5s forwards;
-}
+} */
 
-.profil-picture img{
+/* .profil-picture img{
   width:95%;
   height:95%;
   border-radius:100%;
-}
+} */
 
-@keyframes showprofil {
+/* @keyframes showprofil {
   0%{
     transform:translateY(-100%);
     opacity:0;
@@ -319,4 +319,4 @@ body {
     transform:translateY(0%);
     opacity:1;
   }
-}
+} */
