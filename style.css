@@ -289,7 +289,7 @@ body {
 }
 
 
-.profil-picture {
+/* .profil-picture {
   display:flex;
   justify-content:center;
   align-items:center;
@@ -298,7 +298,7 @@ body {
   border-radius:100%;
   background:linear-gradient(30deg, #232323, #B9BCC3);
   opacity:0;
-}
+} */
 
 .profilpicture-animation {
   animation:showprofil 0.5s forwards;
