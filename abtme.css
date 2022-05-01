@@ -7,3 +7,29 @@ body {
   background-image: linear-gradient(30deg, #8E78FF, #B9DEDB);
   margin:0;
 }
+
+.menu {
+  width:100vw;
+  max-width:100%;
+  display:flex;
+  justify-content:space-around;
+  position:fixed;
+  transition:opacity 0.5s;
+  z-index:1;
+}
+
+.waih {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.waip {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+}
