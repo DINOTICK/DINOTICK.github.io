@@ -46,6 +46,7 @@ body {
   position:fixed;
   transition:opacity 0.5s;
   z-index:1;
+  font-size:30;
 }
 
 .menu li {
@@ -302,3 +303,8 @@ body {
     opacity:1;
   }
 } */
+
+footer {
+  text-align: center;
+  color:white
+}

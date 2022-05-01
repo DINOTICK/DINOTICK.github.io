@@ -29,6 +29,7 @@ body {
   position:sticky;
   transition:opacity 0.5s;
   z-index:1;
+  font-size:30;
 }
 
 .menu li {
@@ -49,8 +50,31 @@ body {
 }
 
 .center {
-  margin-top:5%;
+  margin-top:4%;
   text-align: center;
   z-index:-1;
-  font-size:45;
+  font-size:40;
+  color:white;
+}
+
+.centerparagraph {
+  margin-left:500;
+  margin-right:500;
+  text-align: center;
+  z-index:-2;
+  font-size:30;
+  color:white;
+}
+
+.listgames {
+  text-align: center;
+  z-index:-3;
+  font-size:30;
+  color:white;
+  display:inline
+}
+
+footer {
+  text-align: center;
+  color:white
 }
