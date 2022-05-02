@@ -58,8 +58,8 @@ body {
 }
 
 .centerparagraph {
-  margin-left:500;
-  margin-right:500;
+  margin-left:50;
+  margin-right:50;
   text-align: center;
   z-index:-2;
   font-size:30;
