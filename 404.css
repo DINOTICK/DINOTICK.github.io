@@ -28,16 +28,16 @@ h1 {
   justify-content:center;
   align-items:center;
   font-family:'Quicksand';
-  font-size:50;
+  font-size:70;
 }
 
-.paragraphdialog {
+.pdialog {
   display:flex;
   justify-content:center;
   align-items:center;
   font-family:'Quicksand';
   font-weight:900;
-  font-size:25;
+  font-size:35;
 }
 
 .goback {
@@ -52,5 +52,5 @@ h1 {
   color:#02c533;
   text-decoration:none;
   font-weight:900;
-  font-size:32;
+  font-size:45;
 }
