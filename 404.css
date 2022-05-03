@@ -36,4 +36,12 @@ p {
   justify-content:center;
   align-items:center;
   font-family:'Quicksand';
+    font-size:20;
+}
+
+li {
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  font-family:'Quicksand';
 }
