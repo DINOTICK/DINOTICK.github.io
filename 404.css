@@ -36,12 +36,26 @@ p {
   justify-content:center;
   align-items:center;
   font-family:'Quicksand';
-    font-size:20;
+  font-size:20;
 }
 
-li {
+.paragraphdialog {
   display:flex;
   justify-content:center;
   align-items:center;
   font-family:'Quicksand';
+}
+
+.goback {
+  width:100vw;
+  max-width:100%;
+  display:flex;
+  justify-content:space-around;
+  position:sticky;
+  transition:opacity 0.5s;
+  z-index:1;
+  font-size:30;
+  color:white;
+  text-decoration:none;
+  font-weight:900;
 }
