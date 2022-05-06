@@ -7,6 +7,8 @@ body {
   background-image: linear-gradient(30deg, #8E78FF, #B9DEDB);
   text-align: center;
   font-weight:900;
+  color:white;
+  font-size:30;
 }
 
 .container {
