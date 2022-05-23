@@ -92,7 +92,7 @@ button {
 }
 
 button:hover {
-  background-image: linear-gradient(60deg, #ffa27a, #B9DEDB);
+  background-image: linear-gradient(100deg, #ffa27a, #B9DEDB);
   box-shadow:none;
 }
 
