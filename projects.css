@@ -95,7 +95,7 @@ button {
 }
 
 button:hover {
-  background-image: linear-gradient(100deg, #ffa27a, #B9DEDB);
+  background-image: linear-gradient(200deg, #ffa27a, #B9DEDB);
   box-shadow:none;
 }
 
@@ -107,7 +107,7 @@ button:hover {
 }
 
 .features {
-  font-size:30;
+  font-size:28;
   font-family:'Quicksand';
   display:flex;
   color:white;
