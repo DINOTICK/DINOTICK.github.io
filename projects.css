@@ -77,5 +77,13 @@ button {
   flex-direction:column;
   padding: 15px 32px;
   align-items:center;
+  border: none;
+  border-radius: 12px;
+  color:white;
   font-size: 16px;
+  transition-duration: 0.4s;
+}
+.button:hover {
+  background-color:#ffffff;
+  color:black;
 }
