@@ -17,6 +17,7 @@ body {
   font-family:'Quicksand';
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
+  positio:sticky;
   background-image: linear-gradient(30deg, #8E78FF, #B9DEDB);
   margin:0;
   padding:0;
