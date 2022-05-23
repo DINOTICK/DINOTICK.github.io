@@ -84,6 +84,6 @@ button {
   transition-duration: 0.4s;
 }
 .button:hover {
-  background-color:#ffffff;
+  background-image:#ffffff;
   color:black;
 }
