@@ -92,8 +92,7 @@ button {
 
 button:hover {
   border: linear-gradient(30deg, #ffa27a, #B9DEDB);
-  background-image:none;
-  color:white;
+  background-image:transparent;
   font-family:'Quicksand';
   box-shadow:none;
 }
