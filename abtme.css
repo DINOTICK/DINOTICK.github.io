@@ -55,7 +55,8 @@ body {
   text-align: center;
   z-index:-1;
   font-size:40;
-  color:white;
+  color:white
+  font-weight:900px;
 }
 
 .centerparagraph {
@@ -65,6 +66,7 @@ body {
   z-index:-2;
   font-size:30;
   color:white;
+  font-weight:900px;
 }
 
 .listgames {
@@ -73,6 +75,7 @@ body {
   font-size:30;
   color:white;
   display:inline
+  font-weight:900px;
 }
 
 footer {
