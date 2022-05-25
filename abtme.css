@@ -19,6 +19,7 @@ body {
   font-family:'Quicksand';
   background-image: linear-gradient(30deg, #8E78FF, #B9DEDB);
   margin:0;
+  background-attachment: fixed;
 }
 
 .menu {

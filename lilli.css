@@ -20,4 +20,5 @@ body {
   font-size:30;
   color:white;
   text-align:center;
+  background-attachment: fixed;
 }
